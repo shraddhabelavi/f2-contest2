@@ -186,7 +186,7 @@ function displayData(data) {
       <div class="cardFooter">
           <p>${data[i].time}</p>
           <div style="display:flex;align-items:center;">
-            <img src="like.png" alt="like" loading="lazy" />
+            <img src="assests/like.png" alt="like" loading="lazy" />
             <svg
                 style="margin:0px 5px;"
               xmlns="http://www.w3.org/2000/svg"
